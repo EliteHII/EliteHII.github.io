@@ -1,20 +1,16 @@
 ---
 layout: page
 title: Blogging Like a Hacker
-permalink: /week1
+permalink: /week2
 ---
 
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="week1's page,let u know me" />
+    <meta name="description" content="week2's page,let u know me" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <style>
-        body {
-                       padding: 10px 0;
-        }
-    </style>
-    <title>Team Elite</title>
+    
+    
 </head>
 <body>
      <div class="info-wrap">
@@ -89,5 +85,4 @@ permalink: /week1
     <div style="padding-top: 20px;">
         <a href="https://www.huawei.com/">遥遥领先 </a>
     </div>
-</body>
-</html>
+
