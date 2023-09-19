@@ -19,7 +19,7 @@ permalink: /week4
       </div>
       <div class="info-right">
     <h1>Team Elite</h1>	
-        <dt>Blog2</dt>
+        <dt>Blog3</dt>
                      
          The fourth week of the meeting determined that the lower extremity exoskeleton was driven by air, and the upper extremity exoskeleton was driven by electric motor.
          
