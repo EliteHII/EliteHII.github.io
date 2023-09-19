@@ -22,7 +22,7 @@ permalink: /week4
         <dt>Blog2</dt>
                      
          The fourth week of the meeting determined that the lower extremity exoskeleton was driven by air, and the upper extremity exoskeleton was driven by electric motor.
-         </br>
+         
          第四周的会议确定了下肢外骨骼以气动为驱动方案，而上肢外骨骼以电机为驱动方案。
 
                 
