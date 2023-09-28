@@ -20,32 +20,38 @@ layout: page title: Blogging Like a Hacker permalink: /week6
         <dt>Blog4</dt>
 
     Project Plan
+    <br>
         Milestone #1: Determine design requirements
+        <br>
     a) Task 1a: Conduct an investigation into the coal mine environment. In the initial stage of the project, we need to investigate the coal mining environment, identify difficulties and needs from it, and establish the project objectives preliminarily based on this.
+    <br>
     
     b) Task 1b: Establish specific project objectives. After investigating the requirements, we need to determine specific project requirements, such as walking slope, load, etc. Proceed to the next stage of design based on this.
-    
+    <br>
     Milestone #2: Design of exoskeleton structure
+    <br>
     a) Task 2a: Learn relevant knowledge. Designing exoskeleton structures requires us to have an understanding of ergonomics, pneumatic transmission, circuit control, and other aspects. This requires us to learn and apply these additional knowledge.
-
+<br>
     b) Task 2b: Calculate various aspects of data. Before drawing the design diagram, we need to calculate various data related to human walking and object handling, such as load, tilt angle, and load. Based on this, establish the power source for the next step.
-
+<br>
     c) Task 2c: Determine the power source of the exoskeleton structure. In response to the project objectives, we need to determine the power source of the exoskeleton support structure. Such as pneumatic, electric, hydraulic, etc.
-
+<br>
     b) Task 2d: Draw an exoskeleton design diagram. After conducting calculations and establishing the power source, start drawing the mechanical structure design diagram of the exoskeleton. Ensure that it meets its goals while maximizing ergonomic compliance.
-
+<br>
     Milestone #3: Exoskeleton production
+    <br>
     a) Task 3a: Determine structural materials. Determine the material of the exoskeleton structure through the calculated data. Meet the characteristics of portability, stability, and relatively low price.
-
+<br>
     b) Task 3b: Purchase corresponding materials. Purchase various materials required for the production of exoskeletons. Looking for factories to produce some parts and purchase corresponding pneumatic devices, pulleys, etc. Some special parts will be processed by the manufacturer on behalf of others.
-
+<br>
     c) Task 3c: Assemble the exoskeleton. Assemble the prepared parts according to the design drawings.
-
+<br>
     Milestone #4: Exoskeleton structure testing
+    <br>
     a) Task 4a: Test the strength of the exoskeleton structure. Determine the normal load capacity of the exoskeleton by adding different loads. And determine whether the exoskeleton strength can achieve the target.
-
+<br>
     b) Task 4b: Testing exoskeleton efficiency. Have the experimenter wear exoskeleton equipment for walking tests, handling tests, etc. Measure the efficiency of exoskeleton assistance to the human body.
-
+<br>
 
 
     <div style="padding: 5px;">
