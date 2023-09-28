@@ -22,7 +22,7 @@ layout: page title: Blogging Like a Hacker permalink: /week6
     Project Plan
     <br>
    
-        <li>Milestone #1: Determine design requirements<\li>
+        <li>Milestone #1: Determine design requirements</li>
         
     a) Task 1a: Conduct an investigation into the coal mine environment. In the initial stage of the project, we need to investigate the coal mining environment, identify difficulties and needs from it, and establish the project objectives preliminarily based on this.
     <br>
@@ -32,7 +32,7 @@ layout: page title: Blogging Like a Hacker permalink: /week6
     <br>
 
 
-    <li>Milestone #2: Design of exoskeleton structure<\li>
+    <li>Milestone #2: Design of exoskeleton structure</li>
 
     a) Task 2a: Learn relevant knowledge. Designing exoskeleton structures requires us to have an understanding of ergonomics, pneumatic transmission, circuit control, and other aspects. This requires us to learn and apply these additional knowledge.
 <br>
@@ -44,7 +44,7 @@ layout: page title: Blogging Like a Hacker permalink: /week6
 <br>
 <br>
 
-    <li>Milestone #3: Exoskeleton production<\li>
+    <li>Milestone #3: Exoskeleton production</li>
  
     a) Task 3a: Determine structural materials. Determine the material of the exoskeleton structure through the calculated data. Meet the characteristics of portability, stability, and relatively low price.
 <br>
@@ -55,7 +55,7 @@ layout: page title: Blogging Like a Hacker permalink: /week6
         <br>
      
 
-    <li>Milestone #4: Exoskeleton structure testing<\li>
+    <li>Milestone #4: Exoskeleton structure testing</li>
     a) Task 4a: Test the strength of the exoskeleton structure. Determine the normal load capacity of the exoskeleton by adding different loads. And determine whether the exoskeleton strength can achieve the target.
 <br>
     b) Task 4b: Testing exoskeleton efficiency. Have the experimenter wear exoskeleton equipment for walking tests, handling tests, etc. Measure the efficiency of exoskeleton assistance to the human body.
