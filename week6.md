@@ -17,7 +17,7 @@ layout: page title: Blogging Like a Hacker permalink: /week6
       </div>
       <div class="info-right">
     <h1>Team Elite</h1>	
-        <dt>Blog4</dt>
+        <dt>Blog5</dt>
 
     Project Plan
     <br>
