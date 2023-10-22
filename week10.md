@@ -36,5 +36,5 @@
 <script type="text/javascript" src="/live2d/js/live2d.js"></script>
 <script type="text/javascript" src="/live2d/js/message.js"></script>
 <script type="text/javascript">
-    loadlive2d("live2d", "/live2d/model/tia/model.json");
+    loadlive2d("live2d", "/live2d/model/htn/15.json");
 </script>
