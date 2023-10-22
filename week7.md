@@ -11,3 +11,5 @@ BIOG 6
   <source src="src/Hunt_Showdown_2023_10_22_.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<img src="src/azusa.gif"  alt="azusa" />
