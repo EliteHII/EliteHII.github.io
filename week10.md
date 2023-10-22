@@ -5,7 +5,6 @@
     <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
     <div class="hide-button">隐藏</div>
 </div>
-
 <script type="text/javascript">
     var message_Path = '/live2d/'
     var home_Path = 'https://haremu.com/'  //此处修改为你的域名，必须带斜杠
