@@ -1,4 +1,4 @@
 <audio controls autoplay loop>
-  <source src="audio_file.ogg" type="src/2078.ogg">
+  <source src="src/2078.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
