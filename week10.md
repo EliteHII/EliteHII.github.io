@@ -1,6 +1,6 @@
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/1or3YILu28M" 
+    src="https://www.youtube.com/embed/e1xCOsgWG0M" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
@@ -26,7 +26,7 @@
 <link rel="stylesheet" href="/live2d/css/live2d.css" />
 <div id="landlord">
     <div class="message" style="opacity:0"></div>
-    <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+    <canvas id="live2d" width="300" height="500" class="live2d"></canvas>
     <div class="hide-button">隐藏</div>
 </div>
 <script type="text/javascript">
