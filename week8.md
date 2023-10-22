@@ -8,5 +8,5 @@ The cylinder model range has been roughly determined.
 
 <img src="src/104543063_p0.jpg"  alt="keainie" />
 
-<embed autostart="true" hidden="true" loop="true" src="src/2077.mp3">
+<embed autostart="true" hidden="true" loop="true" src="src/2077.mp3"  alt="nosound">
 </embed>
