@@ -8,6 +8,6 @@ BIOG 6
 可爱男娘加我
 
 <video width="1280" height="720" controls>
-  <source src="src/Hunt  Showdown 2023.10.22 .mp4" type="video/mp4">
+  <source src="src/Hunt_Showdown_2023_10_22_.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
