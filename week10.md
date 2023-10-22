@@ -5,9 +5,10 @@
     <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
     <div class="hide-button">隐藏</div>
 </div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js">
 <script type="text/javascript">
     var message_Path = '/live2d/'
-    var home_Path = 'https://haremu.com/'  //此处修改为你的域名，必须带斜杠
+    var home_Path = 'https://bilibili.com/'  //此处修改为你的域名，必须带斜杠
 </script>
 <script type="text/javascript" src="/live2d/js/live2d.js"></script>
 <script type="text/javascript" src="/live2d/js/message.js"></script>
