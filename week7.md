@@ -7,7 +7,7 @@ BIOG 6
 <img src="src/Mizuki_12_st.png"  alt="keainie2" />
 可爱男娘加我
 
-<video width="1920" height="1080" controls>
-  <source src="src/Apex Legends_2023.04.09-13.18.mp4" type="video/mp4">
+<video width="1280" height="720" controls>
+  <source src="src/Hunt  Showdown 2023.10.22 .mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
