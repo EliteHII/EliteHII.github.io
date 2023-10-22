@@ -7,3 +7,7 @@ The sketch of the lower limb exoskeleton has been basically completed.
 The cylinder model range has been roughly determined.
 
 <img src="src/104543063_p0.jpg"  alt="keainie" />
+
+<audio autoplay="autoplay"> 
+<source = src="src/2077.mp3" type="audio/mp3"> 
+</audio>
