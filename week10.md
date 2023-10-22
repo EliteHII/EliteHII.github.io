@@ -1,2 +1,4 @@
-<embed height="0" width="0" src="src/2078.ogg">
-</embed>
+<audio controls autoplay loop>
+  <source src="audio_file.ogg" type="src/2078.ogg">
+  Your browser does not support the audio element.
+</audio>
