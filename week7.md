@@ -4,4 +4,4 @@ BIOG 6
 
 气缸已大致确定型号范围
 
-<img src="Mizuki 12_st.ayaka.one.png"  alt=" " />
+<img src="Mizuki 12_st.ayaka.one.png"  alt="keainie" />
