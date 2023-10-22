@@ -14,7 +14,7 @@
 <script type="text/javascript" src="/live2d/js/message.js"></script>
 <script type="text/javascript">
     $(function(){
-        loadlive2d("live2d", "/live2d/model/tia/model.json"
+        loadlive2d("live2d", "/live2d/model/tia/model.json");
     })
 </script>
 {% endraw %}
