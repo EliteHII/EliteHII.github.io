@@ -4,12 +4,12 @@ BIOG 6
 
 气缸已大致确定型号范围
 
-<img src="src/Mizuki_12_st.png"  alt="keainie2" />
-可爱男娘加我
+<img src="src/azusa.gif"  alt="azusa" />
 
-<video width="1920" height="1080" controls>
-  <source src="src/Hunt_Showdown_2023_10_22_.mp4" type="video/mp4">
+
+<video width="640" height="360" controls>
+  <source src="src/Huge_Showdown .mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<img src="src/azusa.gif"  alt="azusa" />
+<img src="src/Mizuki_12_st.png"  alt="keainie2" />
