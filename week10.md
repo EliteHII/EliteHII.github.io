@@ -1,6 +1,6 @@
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/e1xCOsgWG0M" 
+    src="https://www.youtube.com/embed/2t1NMRse6aI" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
@@ -21,7 +21,8 @@
   height: 100%;
 }
 </style>
-<img src="src/Mizuki_12_st.png"  alt="keainie2" />
+河南人，我就是河南人！
+<img src="src/henan.png"  alt="keainie2" />
 
 <link rel="stylesheet" href="/live2d/css/live2d.css" />
 <div id="landlord">
